@@ -1,0 +1,8 @@
+hash: e3ad6b11364276c5d2536bad3f23adae15407f3f038a57e6a89477790169cbb6
+updated: 2017-03-13T13:07:32.250765208Z
+imports:
+- name: github.com/urfave/cli
+  version: 0bdeddeeb0f650497d603c4ad7b20cfe685682f6
+- name: gopkg.in/yaml.v2
+  version: a3f3340b5840cee44f372bddb5880fcbc419b46a
+testImports: []

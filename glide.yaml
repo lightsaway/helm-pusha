@@ -1,0 +1,5 @@
+package: .
+import:
+- package: github.com/urfave/cli
+  version: v1.19.1
+- package: gopkg.in/yaml.v2

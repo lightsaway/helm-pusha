@@ -1,0 +1,8 @@
+name: "push"
+version: "0.1.0"
+usage: "Push chart to remote HTTP repo"
+description: |-
+  This plugin is like CURL.
+ignoreFlags: false
+useTunnel: false
+command: "$HELM_PLUGIN_DIR/pusher"
